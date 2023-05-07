@@ -1,0 +1,61 @@
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\ItemsDBv3.mdf
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\ItemsDBv3_log.ldf
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\Gestion de Stock.exe.config
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\Gestion de Stock.exe
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\Gestion de Stock.pdb
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion_de_Stock.Form1.resources
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion_de_Stock.HomeScreenForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion_de_Stock.NewItemForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion_de_Stock.Properties.Resources.resources
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion de Stock.csproj.GenerateResource.cache
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion de Stock.csproj.CoreCompileInputs.cache
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion de Stock.exe
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion de Stock.pdb
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\SalesDBv2.mdf
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\SalesDBv2_log.ldf
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion_de_Stock.OrdersForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\ClientsDBv1.mdf
+C:\Users\hadj said\source\repos\Gestion de Stock\bin\Debug\ClientsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion_de_Stock.ClientsForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock\obj\Debug\Gestion de Stock.csproj.AssemblyReference.cache
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ClientsDBv1.mdf
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ClientsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ItemsDBv3.mdf
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ItemsDBv3_log.ldf
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\SalesDBv2.mdf
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\SalesDBv2_log.ldf
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\Gestion de Stock.exe.config
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\Gestion de Stock.exe
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\Gestion de Stock.pdb
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.ClientsForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.Form1.resources
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.HomeScreenForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.NewItemForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.OrdersForm.resources
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.Properties.Resources.resources
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.csproj.GenerateResource.cache
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.csproj.CoreCompileInputs.cache
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.exe
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.pdb
+C:\Users\hadj said\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.csproj.AssemblyReference.cache
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ClientsDBv1.mdf
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ClientsDBv1_log.ldf
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ItemsDBv3.mdf
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\ItemsDBv3_log.ldf
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\SalesDBv2.mdf
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\SalesDBv2_log.ldf
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\Gestion de Stock.exe.config
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\Gestion de Stock.exe
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\bin\Debug\Gestion de Stock.pdb
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.ClientsForm.resources
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.Form1.resources
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.HomeScreenForm.resources
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.NewItemForm.resources
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.OrdersForm.resources
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.Properties.Resources.resources
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion_de_Stock.splashScreen.resources
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.csproj.GenerateResource.cache
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.csproj.CoreCompileInputs.cache
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.exe
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.pdb
+C:\Users\dz laptops\source\repos\Gestion de Stock 0.2 version demo\obj\Debug\Gestion de Stock.csproj.AssemblyReference.cache
